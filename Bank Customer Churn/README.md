@@ -14,7 +14,7 @@ This project involves analyzing a bank's customer data to understand churn patte
 
 - The original dataset contained inconsistent, messy rows with multiple delimiters and mixed values.
 - Using **Power BI Power Query**, the data was:
-  - Split by common delimiters (commas, semicolons, slashes, pipes).
+  - Split by common delimiters (commas, semicolons, slashes).
   - Cleaned of whitespace and non-relevant characters (like parentheses).
   - Grouped by common occupations (e.g., all roles with "engineer" grouped under **Engineer**).
   - Transformed into a normalized tabular format for easier visualization.
@@ -23,19 +23,19 @@ This project involves analyzing a bank's customer data to understand churn patte
 
 ## 🔍 Key Insights
 
-- **High churn rates** were noticed among customers in certain job groups such as **Sales**, **Technicians**, and **Blue Collar** roles.
-- Customers with **lower balance and tenure** had a higher probability of churning.
-- **Female customers** showed slightly higher churn rates.
-- Customers without **credit cards** or **active accounts** were more likely to churn.
-
+- Customers with **more complaints** were more likely to churn.
+- Churned customers used **fewer products** and had **lower credit scores**.
+- Surprisingly, **high-income customers** churned more(an expensive loss for the bank).
+- Customers aged **60+** and those in **SME segment** showed the bhighest churn rates.
+- **Male Customers** churned more due to **service issues/account closures** while **female customers** churned more due to **relocation.**
+- **Professionals** like lawyers, programmers, nurses and fundraisers had high loan to income ratios and also had high churn rates.
 ---
 
 ## 💡 Recommendations to Reduce Churn
 
-1. **Introduce loyalty programs** for long-tenure customers.
-2. **Improve engagement** with customers who are inactive or not using credit cards.
-3. **Provide tailored financial advice** to customers in at-risk occupations.
-4. **Use predictive analytics** to flag churn-prone customers early.
+1. The bank should **proactively engage high income customers** who have frequent complaints and low product usage. Understanding their pain points may reduce churn.
+2. Customers with **high loan-to-income ratios** and **low credit scores** should be targeted with **financial planning support** or **retention incentives.**
+3. **Tailored communication and retention strategies** should be applied based on age, gender, and customer segment insights (e.g., SMEs and elderly clients).
 
 ---
 
@@ -46,24 +46,20 @@ This project involves analyzing a bank's customer data to understand churn patte
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](your-dashboard-screenshot-link-here)
-
 ---
 
 ## 🤝 Let's Connect
 
-- 📍 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🐱 [GitHub](https://github.com/your-github-username)
+- 📍 [LinkedIn](https://www.linkedin.com/in/adekunle-adeyemi-80b578187/)
+- 🐱 [GitHub](https://github.com/Drkay2023/Power_BI_Dashboards/tree/main)
 
 ---
 
 ## 🧠 What I Learned
 
-- How to clean and normalize messy datasets directly in Power BI.
-- Grouping unstructured text data using custom logic and lookup tables.
-- Deriving insights from visual patterns to inform business decisions.
+- Data quality and structure greatly influence the depth of insights.
+- Building storytelling dashboards improves clarity and impact.
+- bUnderstanding customer personas and churn behavior is critical for any customer-centric organization.
 
 ---
 
