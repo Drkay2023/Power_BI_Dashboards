@@ -19,7 +19,7 @@
 
 ## Personal Note
 
-I am a big fabn of Chicken Republic and I absolutley love their products especially their Chicken. This prompted me to work on a personal project with publicly available dataset.
+I am a big fan of Chicken Republic and I absolutley love their products especially their Chicken. This prompted me to work on a personal project with publicly available dataset.
 
 ## Project Overview
 
@@ -60,7 +60,7 @@ This project focuses on analyzing the sales performance of Chicken Republic bran
 
 2. **Revamp Yaba Location**
    - Conduct a branch audit.
-   - Introduce hyper-local promotions(like a Yaba only package) and menu improvements.
+   - Introduce hyper-local promotions(like a "Yaba only" package) and menu improvements.
 
 3. **Launch Monthly Campaigns**
    - Seasonal offers: “Dessert Week”, “Family Pack Fridays”.
