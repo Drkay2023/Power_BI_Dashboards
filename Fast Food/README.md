@@ -19,7 +19,7 @@
 
 ## Personal Note
 
-I am a big fan of Chicken Republic and I absolutley love their products especially their Chicken. This prompted me to work on a personal project with publicly available dataset.
+I am a big fan of Chicken Republic and I absolutely love their products especially their Chicken. This prompted me to work on a personal project with publicly available dataset.
 
 ## Project Overview
 
