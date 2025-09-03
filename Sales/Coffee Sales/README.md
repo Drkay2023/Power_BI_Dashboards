@@ -47,7 +47,9 @@ This project analyzes coffee shop sales data from **January to June** to identif
   - Mar → Apr: **+20.3%**
   - Apr → May: **+31.8%**
   - May → June: **+6.2%**
-- **Coffee and Tea** contributed the highest revenue share **MoM**
+- **Cumulative growth rate** from January to June was at **102%**
+- **Average monthly growth rate** from January to June was at **15%**
+- **Coffee and Tea** contributed the highest revenue share **MoM** with **Cumulative growth rate** from January to June at **110% & 109%** respectively.
 - **Morning hours (8 AM–11 AM)** are peak sales periods
 - Weekdays generated the most in total revenue while weekends underperformed
 - Bakery and Drinking Chocolate categories were the highest contributors in terms of **revenue**

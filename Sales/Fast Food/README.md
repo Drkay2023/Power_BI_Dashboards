@@ -1,6 +1,6 @@
 # Chicken Republic Lagos Sales Analysis 
 
-![Dashboard](/Images/Project%201%20image%204.JPG)
+![Dashboard](/Images/Project%201%20image%204.5.JPG)
 
 
 
