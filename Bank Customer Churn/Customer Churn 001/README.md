@@ -1,6 +1,12 @@
 # Customer Churn Dashboard - Power BI
 
-![Dashboard](/Images/Project%201%20image%202.5.jpg)
+![Dashboard](/Images/Project%201%20image%202.6.1.JPG)
+
+## Author
+
+**Michael Adeyemi**  
+[tunbise60@Gmail.com]  
+[LinkedIn Profile](https://www.linkedin.com/in/adekunle-adeyemi-80b578187/)
 
 ## Project Overview
 This Power BI project analyzes customer churn patterns for a fictional bank dataset.  
@@ -56,8 +62,7 @@ help decision-makers target retention strategies, and reduce churn rates.
   - Number of Products  
   - Geography  
   - Churn status  
-  - Age range slider  
-  - Tenure range slider
+  - Tenure range
 
 ---
 
@@ -78,12 +83,13 @@ help decision-makers target retention strategies, and reduce churn rates.
 ---
 
 ##  Key Insights
-- Churn is highest in customers aged *51-60*, especially among females.
-- Non-active members and those without credit cards show higher churn tendencies.
+- Churn is highest in customers aged *36-50*, especially among females.
+- Non-active members and those with credit cards show higher churn tendencies.
 - Geographic variation suggests targeted regional retention campaigns.
 - Churn is highest in Germany and lowest in Spain.
 - France has the highest number of customers.
-- Highest churn rate was recorded with customers with one year tenure range with the churn rate decreasing with increasing tenure range.
+- Highest churn rate was recorded with customers who had used all the bank's products with the churn rate increasing with increasing product range.
+- Highest churn rate was recorded with customers with 0-1 year tenure range with the churn rate decreasing with increasing tenure range.
 
 
 ---
